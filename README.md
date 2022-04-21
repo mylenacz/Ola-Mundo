@@ -2,4 +2,4 @@
 
 Primeiro repositório do curso do Git e GitHub
 
-Repositório cirado durante uma aula
+Repositório criado durante uma aula
